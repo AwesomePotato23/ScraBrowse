@@ -7,7 +7,7 @@ You just put in a username and all info will come up.
 
 
 v1.0 Contains:
-ID
-Join Date
-Username
-Location
+`ID`, 
+`Join Date`, 
+`Username`, 
+`Location`.
